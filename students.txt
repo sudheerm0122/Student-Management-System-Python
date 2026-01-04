@@ -1,0 +1,5 @@
+101,Sudheer,21,Python
+102,Syam,22,Java
+103,Hari,20,Data Science
+104,Sai,23,Web Development
+105,Sindhu,21,AI & ML
